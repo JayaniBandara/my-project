@@ -1,9 +1,4 @@
 class car:
-<<<<<<< HEAD
     name = ""
-    def __int__(self, name):
+    def __init__(self,name):
         self.name = name
-=======
-    brand = ""
-    def __int__(self, brand):
-        self.brand = brand
